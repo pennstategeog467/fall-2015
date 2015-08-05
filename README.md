@@ -4,6 +4,8 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
 
 - [FixWikiMaps](http://fixwikimaps.tumblr.com/)
 - [Pop-Carte] (http://pennstategeog467.github.io/pop-carte/)
+- OSM for Surrounding Communities 
+  - Lemont, Houserville, Boalsburg, Park Forest, Pine Grove Mills
 
 ### Penn State Online Campus Map
 
