@@ -35,3 +35,6 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
  - Bicycle Information
   - Racks/ServiceStations/Shops
  - Penn State Branding
+  - New logo/word mark
+  - Nittany Lion
+  - Campus Label
