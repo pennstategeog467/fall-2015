@@ -16,10 +16,13 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
 
 **PSU Data**
  - Trees
- - Implement Building heights
-  - Transform roof details to match relative to top of building
-  - Heights could just be relative to the overall height
-  - Roof-line file is not specific to each building
+ - Roofline Details
+  - Roof-lines are not specific to each building
+  - Work with OPP on adding building attribute to roof-line detail
+  - Needed for emplementing Building Heights
+ - Implement Building Heights
+  - Use existing height information to give buildings a relative height
+  - Transform Roof-line details to match relative building heights
 
 **Online Map**
  - Directions
@@ -38,3 +41,18 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
   - New logo/word mark
   - Nittany Lion
   - Campus Label
+  - Universiy Park Designation
+
+**Campus Map Editor**
+ - Web Based Backend Editor
+   - Used to maintain campus map data such as:
+     - Campus building information for pop-ups
+     - Campus construction overlays
+     - Any additional campus json data
+   - Ability to:
+     - Load data files from github repo
+     - Create and Edit data through a GUI
+     - Save directly to github repo 
+   - Editor Map
+     - PennState 467 Map
+     - OPP 2012 Satellite
