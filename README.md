@@ -42,6 +42,10 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
   - Nittany Lion
   - Campus Label
   - Universiy Park Designation
+ - BackUp OSM Basemap
+   - For rare occasions when Mapbox goes offline
+   - Example [Aug 10th 2015] (https://cloud.githubusercontent.com/assets/11635991/9181765/c8257e9e-3f74-11e5-87f0-065b622be8a6.PNG)
+
 
 **Campus Map Editor**
  - Web Based Backend Editor
