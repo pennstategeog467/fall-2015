@@ -50,8 +50,8 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
 **Campus Map Editor**
  - Web Based Backend Editor
    - Used to maintain campus map data such as:
-     - Campus building information for pop-ups
-     - Campus construction overlays
+     - Campus building information for pop-ups: [example] (https://cloud.githubusercontent.com/assets/11635991/9200609/9f8307d4-4016-11e5-94f6-70b1f6d7bda6.jpg)
+     - Campus construction overlays: [example] (https://cloud.githubusercontent.com/assets/11635991/9200625/b7ef575a-4016-11e5-89c1-252756f6d0d8.jpg)
      - Any additional campus json data
    - Ability to:
      - Load data files from github repo
