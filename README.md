@@ -10,7 +10,8 @@ Project ideas for the Fall 2015 semester of GEOG 467: Applied Cartographic Desig
 ### Penn State Online Campus Map
 
 **OpenStreetMap Editing**
-- Sidewalks "May require field work" 
+- Sidewalks "May require field work"
+ - Attributing crosswalks downtown
 - Athletic & IM fields
 - Downtown Buisnesses
 
